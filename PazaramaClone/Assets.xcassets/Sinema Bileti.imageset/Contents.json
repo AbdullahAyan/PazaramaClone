@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "Sinema Bileti.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Sinema Bileti 1.png",
+      "filename" : "Sinema Bileti.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Sinema Bileti 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

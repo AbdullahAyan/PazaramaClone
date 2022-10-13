@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "Ulaşım Kartları.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Ulaşım Kartları 1.png",
+      "filename" : "Ulaşım Kartları.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Ulaşım Kartları 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

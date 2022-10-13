@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "Online Alışveriş.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Online Alışveriş 1.png",
+      "filename" : "Online Alışveriş.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Online Alışveriş 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

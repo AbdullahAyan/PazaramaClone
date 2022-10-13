@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "Pazarama Pet.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Pazarama Pet 1.png",
+      "filename" : "Pazarama Pet.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Pazarama Pet 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

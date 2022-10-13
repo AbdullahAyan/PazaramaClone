@@ -78,7 +78,7 @@ class ViewController: UIViewController,UICollectionViewDataSource, UICollectionV
             
             cell.button.layer.shadowColor = UIColor.black.cgColor
             cell.button.layer.shadowOffset = CGSize(width: 0, height: 0)
-            cell.button.layer.shadowRadius = 4
+            cell.button.layer.shadowRadius = 3
             cell.button.layer.shadowOpacity = 0.2
             
             return cell
