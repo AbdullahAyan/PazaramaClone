@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D15D05A28F7074000B397A9 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D15D05928F7074000B397A9 /* CustomCollectionViewCell.swift */; };
+		3DB7785928F833DF0032CF40 /* SecondCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB7785828F833DF0032CF40 /* SecondCollectionViewCell.swift */; };
 		3DF19AA628F5667400763275 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF19AA528F5667400763275 /* AppDelegate.swift */; };
 		3DF19AA828F5667400763275 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF19AA728F5667400763275 /* SceneDelegate.swift */; };
 		3DF19AAA28F5667400763275 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF19AA928F5667400763275 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D15D05928F7074000B397A9 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
+		3DB7785828F833DF0032CF40 /* SecondCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondCollectionViewCell.swift; sourceTree = "<group>"; };
 		3DF19AA228F5667400763275 /* PazaramaClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PazaramaClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DF19AA528F5667400763275 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DF19AA728F5667400763275 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				3DF19AA728F5667400763275 /* SceneDelegate.swift */,
 				3DF19AA928F5667400763275 /* ViewController.swift */,
 				3DF19AAB28F5667400763275 /* Main.storyboard */,
+				3DB7785828F833DF0032CF40 /* SecondCollectionViewCell.swift */,
+				3D15D05928F7074000B397A9 /* CustomCollectionViewCell.swift */,
 				3DF19AAE28F5667600763275 /* Assets.xcassets */,
 				3DF19AB028F5667600763275 /* LaunchScreen.storyboard */,
 				3DF19AB328F5667600763275 /* Info.plist */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DF19AAA28F5667400763275 /* ViewController.swift in Sources */,
+				3D15D05A28F7074000B397A9 /* CustomCollectionViewCell.swift in Sources */,
+				3DB7785928F833DF0032CF40 /* SecondCollectionViewCell.swift in Sources */,
 				3DF19AA628F5667400763275 /* AppDelegate.swift in Sources */,
 				3DF19AA828F5667400763275 /* SceneDelegate.swift in Sources */,
 			);
